@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+./.dll
+env/api-ms-win-core-datetime-l1-1-0.dll
